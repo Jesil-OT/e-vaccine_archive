@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "35526225363",
+    "firebase_url": "https://amakasamtv-33013.firebaseio.com",
+    "project_id": "amakasamtv-33013",
+    "storage_bucket": "amakasamtv-33013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35526225363:android:58f17a689cbb82041dd326",
+        "android_client_info": {
+          "package_name": "com.blazingtech.amakasamtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35526225363-7q5ci8qgtkkuit6h9ksjqegefoppjejh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmO7Et7lkJFmx9kwMLEPmYg2n4llBk-Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35526225363-7q5ci8qgtkkuit6h9ksjqegefoppjejh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35526225363:android:e8755c2ee4501c0c1dd326",
+        "android_client_info": {
+          "package_name": "com.blazingtech.tvapp.amakasamtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35526225363-kfdn1t391d0lr005vbu15vsscrhgn1g8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blazingtech.tvapp.amakasamtv",
+            "certificate_hash": "746d4c4d60ab0c412b5ebd55af3a1df95e4e397c"
+          }
+        },
+        {
+          "client_id": "35526225363-7q5ci8qgtkkuit6h9ksjqegefoppjejh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmO7Et7lkJFmx9kwMLEPmYg2n4llBk-Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35526225363-7q5ci8qgtkkuit6h9ksjqegefoppjejh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35526225363:android:6d957f05bcc36ebb1dd326",
+        "android_client_info": {
+          "package_name": "com.jesil.evaccinearchive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35526225363-7q5ci8qgtkkuit6h9ksjqegefoppjejh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmO7Et7lkJFmx9kwMLEPmYg2n4llBk-Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35526225363-7q5ci8qgtkkuit6h9ksjqegefoppjejh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

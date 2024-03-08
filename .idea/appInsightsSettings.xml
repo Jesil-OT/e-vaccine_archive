@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.jesil.evaccinearchive" />
+                  <option name="mobileSdkAppId" value="1:35526225363:android:6d957f05bcc36ebb1dd326" />
+                  <option name="projectId" value="amakasamtv-33013" />
+                  <option name="projectNumber" value="35526225363" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
