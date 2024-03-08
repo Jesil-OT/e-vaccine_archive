@@ -1,0 +1,44 @@
+[versions]
+androidx-junit = "1.1.5"
+androidx-navigationFragmentKtx = "2.7.7"
+appcompat = "1.6.1"
+constraintlayout = "2.1.4"
+core-ktx = "1.12.0"
+easypermissions = "3.0.0"
+espresso-core = "3.5.1"
+hiltAndroidCompiler = "2.44"
+junit = "4.13.2"
+material = "1.11.0"
+androidGradlePlugin = "8.2.0"
+kotlinAndroid = "1.9.10"
+googleServices = "4.4.1"
+firebaseBom = "32.7.3"
+hiltAndroid = "2.44"
+ccpVersion = "2.5.0"
+navigationUiKtx = "2.7.7"
+timber = "5.0.1"
+
+[libraries]
+androidx-appcompat = { module = "androidx.appcompat:appcompat", version.ref = "appcompat" }
+androidx-constraintlayout = { module = "androidx.constraintlayout:constraintlayout", version.ref = "constraintlayout" }
+androidx-core-ktx = { module = "androidx.core:core-ktx", version.ref = "core-ktx" }
+androidx-espresso-core = { module = "androidx.test.espresso:espresso-core", version.ref = "espresso-core" }
+androidx-junit = { module = "androidx.test.ext:junit", version.ref = "androidx-junit" }
+androidx-navigation-ui-ktx = { module = "androidx.navigation:navigation-ui-ktx", version.ref = "navigationUiKtx" }
+easypermissions = { module = "pub.devrel:easypermissions", version.ref = "easypermissions" }
+hilt-android-compiler = { module = "com.google.dagger:hilt-android-compiler", version.ref = "hiltAndroidCompiler" }
+junit = { module = "junit:junit", version.ref = "junit" }
+material = { module = "com.google.android.material:material", version.ref = "material" }
+firebase-bom = { module = "com.google.firebase:firebase-bom", version.ref = "firebaseBom" }
+firebase-analytics = { module = "com.google.firebase:firebase-analytics" }
+hilt-android = {module = "com.google.dagger:hilt-android", version.ref = "hiltAndroid"}
+ccp = {module = "com.hbb20:ccp", version.ref = "ccpVersion"}
+navigation-fragment-ktx = { module = "androidx.navigation:navigation-fragment-ktx", version.ref = "androidx-navigationFragmentKtx" }
+timber = { module = "com.jakewharton.timber:timber", version.ref = "timber" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "androidGradlePlugin" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlinAndroid" }
+google-services = { id = "com.google.gms.google-services", version.ref = "googleServices" }
+hilt-android = { id = "com.google.dagger.hilt.android", version.ref = "hiltAndroid"}
+
