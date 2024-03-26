@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">e-vaccine archive</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_message">The best app to manage your vaccine data through your phone</string>
+    <string name="welcome_background_image">welcome background image</string>
+    <string name="proceed_to_sign_in">Proceed to Sign in</string>
+    <string name="terms">you can read through the terms and conditions</string>
+    <string name="login">Login</string>
+    <string name="login_message">Login to your account to access your vaccinations</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="other_options">Or you can login with other options below</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="login_other_message">In other to save, modify and access your vaccines, you need to login with google</string>
+    <string name="vaccine_management">Vaccine Management</string>
+    <string name="profile_image">profile Image</string>
+    <string name="add_button">Add Button</string>
 </resources>
